@@ -1,0 +1,151 @@
+BookID,Title,Author,Genre,Subgenre,Publisher,PublicationDate,ISBN,Format,Language,Pages,Price,QuantityInStock,UnitsSold,Revenue,DiscountPercent,Supplier,DateAdded,StoreBranch,TargetAudience
+1,Book 1,A. Sharma,Fiction,Literary,Sunrise Press,2000-01-01,9780001000001,Hardcover,English,101,15.00,169,1,15.00,0,Global Books Ltd,2020-06-15,Downtown,Adults
+2,Book 2,L. Bennett,Non-Fiction,Essay,Maple House,2001-01-01,9780001000002,Paperback,Spanish,102,15.00,168,2,30.00,5,City Distributors,2021-06-15,Uptown,Teens
+3,Book 3,M. O'Connor,Children,Picture Book,Orion Books,2002-01-01,9780001000003,eBook,French,103,15.00,167,3,45.00,10,NovelSource,2022-06-15,Riverside,Children
+4,Book 4,Chen Li,Fantasy,Epic,Harbor Publishing,2003-01-01,9780001000004,Audiobook,German,104,15.00,166,4,60.00,15,ReadersWholesale,2023-06-15,Midtown,All Ages
+5,Book 5,Sofia Garcia,Science,Popular Science,Blue Oak Media,2004-01-01,9780001000005,Hardcover,English,105,15.00,165,5,75.00,20,BookLink,2024-06-15,Suburb,Young Adults
+6,Book 6,Ethan Brooks,Romance,Contemporary,Eastern Wave,2005-01-01,9780001000006,Paperback,Spanish,106,15.00,164,6,90.00,0,AlphaImports,2025-06-15,Downtown,Adults
+7,Book 7,Priya Nair,Mystery,Thriller,GoldenLeaf,2006-01-01,9780001000007,eBook,French,107,15.00,163,7,105.00,5,Global Books Ltd,2026-06-15,Uptown,Teens
+8,Book 8,Daniel Kim,Historical,Historical Fiction,Pioneer Editions,2007-01-01,9780001000008,Audiobook,German,108,15.00,162,8,120.00,10,City Distributors,2020-06-15,Riverside,Children
+9,Book 9,Noah Patel,Self-Help,Motivational,NorthStar Press,2008-01-01,9780001000009,Hardcover,English,109,15.00,161,9,135.00,15,NovelSource,2021-06-15,Midtown,Children
+10,Book 10,Isabella Rossi,Biography,Memoir,Cascade Books,2009-01-01,9780001000010,Paperback,Spanish,110,15.00,160,10,150.00,20,ReadersWholesale,2022-06-15,Suburb,All Ages
+11,Book 11,J. Thompson,Business,Entrepreneurship,Sunrise Press,2010-01-01,9780001000011,eBook,French,111,15.00,159,11,165.00,0,BookLink,2023-06-15,Downtown,Young Adults
+12,Book 12,Olivia Nguyen,Young Adult,Coming-of-age,Maple House,2011-01-01,9780001000012,Audiobook,German,112,15.00,158,12,180.00,5,AlphaImports,2024-06-15,Uptown,Teens
+13,Book 13,Michael Carter,Fiction,Literary,Orion Books,2012-01-01,9780001000013,Hardcover,English,113,15.00,157,13,195.00,10,Global Books Ltd,2025-06-15,Riverside,Adults
+14,Book 14,Emma Johnson,Non-Fiction,Essay,Harbor Publishing,2013-01-01,9780001000014,Paperback,Spanish,114,15.00,156,14,210.00,15,City Distributors,2026-06-15,Midtown,All Ages
+15,Book 15,Carlos Ruiz,Children,Picture Book,Blue Oak Media,2014-01-01,9780001000015,eBook,French,115,15.00,155,15,225.00,20,NovelSource,2020-06-15,Suburb,Children
+16,Book 16,A. Sharma,Fantasy,Epic,Eastern Wave,2015-01-01,9780001000016,Audiobook,English,116,15.00,154,16,240.00,0,ReadersWholesale,2021-06-15,Downtown,Young Adults
+17,Book 17,L. Bennett,Science,Popular Science,GoldenLeaf,2016-01-01,9780001000017,Hardcover,Spanish,117,15.00,153,17,255.00,5,BookLink,2022-06-15,Uptown,Adults
+18,Book 18,M. O'Connor,Romance,Contemporary,Pioneer Editions,2017-01-01,9780001000018,Paperback,French,118,15.00,152,18,270.00,10,AlphaImports,2023-06-15,Riverside,Teens
+19,Book 19,Chen Li,Mystery,Thriller,NorthStar Press,2018-01-01,9780001000019,eBook,German,119,15.00,151,19,285.00,15,Global Books Ltd,2024-06-15,Midtown,Adults
+20,Book 20,Sofia Garcia,Historical,Historical Fiction,Cascade Books,2019-01-01,9780001000020,Audiobook,English,120,15.00,150,20,300.00,20,City Distributors,2025-06-15,Suburb,All Ages
+21,Book 21,Ethan Brooks,Self-Help,Motivational,Sunrise Press,2020-01-01,9780001000021,Hardcover,Spanish,121,15.00,149,21,315.00,0,NovelSource,2026-06-15,Downtown,Adults
+22,Book 22,Priya Nair,Biography,Memoir,Maple House,2021-01-01,9780001000022,Paperback,French,122,15.00,148,22,330.00,5,ReadersWholesale,2020-06-15,Uptown,Teens
+23,Book 23,Daniel Kim,Business,Entrepreneurship,Orion Books,2022-01-01,9780001000023,eBook,German,123,15.00,147,23,345.00,10,BookLink,2021-06-15,Riverside,Young Adults
+24,Book 24,Noah Patel,Young Adult,Coming-of-age,Harbor Publishing,2023-01-01,9780001000024,Audiobook,English,124,15.00,146,24,360.00,15,AlphaImports,2022-06-15,Midtown,Teens
+25,Book 25,Isabella Rossi,Fiction,Literary,Blue Oak Media,2024-01-01,9780001000025,Hardcover,Spanish,125,15.00,145,25,375.00,20,Global Books Ltd,2023-06-15,Suburb,Adults
+26,Book 26,J. Thompson,Non-Fiction,Essay,Eastern Wave,2025-01-01,9780001000026,Paperback,French,126,15.00,144,26,390.00,0,City Distributors,2024-06-15,Downtown,All Ages
+27,Book 27,Olivia Nguyen,Children,Picture Book,GoldenLeaf,2026-01-01,9780001000027,eBook,German,127,15.00,143,27,405.00,5,NovelSource,2025-06-15,Uptown,Children
+28,Book 28,Michael Carter,Fantasy,Epic,Pioneer Editions,2000-01-01,9780001000028,Audiobook,English,128,15.00,142,28,420.00,10,ReadersWholesale,2026-06-15,Riverside,Young Adults
+29,Book 29,Emma Johnson,Science,Popular Science,NorthStar Press,2001-01-01,9780001000029,Hardcover,Spanish,129,15.00,141,29,435.00,15,BookLink,2020-06-15,Midtown,Adults
+30,Book 30,Carlos Ruiz,Romance,Contemporary,Cascade Books,2002-01-01,9780001000030,Paperback,French,130,15.00,140,30,450.00,20,AlphaImports,2021-06-15,Suburb,Teens
+31,Book 31,A. Sharma,Mystery,Thriller,Sunrise Press,2003-01-01,9780001000031,eBook,German,131,15.00,139,31,465.00,0,Global Books Ltd,2022-06-15,Downtown,All Ages
+32,Book 32,L. Bennett,Historical,Historical Fiction,Maple House,2004-01-01,9780001000032,Audiobook,English,132,15.00,138,32,480.00,5,City Distributors,2023-06-15,Uptown,Adults
+33,Book 33,M. O'Connor,Self-Help,Motivational,Orion Books,2005-01-01,9780001000033,Hardcover,Spanish,133,15.00,137,33,495.00,10,NovelSource,2024-06-15,Riverside,Teens
+34,Book 34,Chen Li,Biography,Memoir,Harbor Publishing,2006-01-01,9780001000034,Paperback,French,134,15.00,136,34,510.00,15,ReadersWholesale,2025-06-15,Midtown,Adults
+35,Book 35,Sofia Garcia,Business,Entrepreneurship,Blue Oak Media,2007-01-01,9780001000035,eBook,German,135,15.00,135,35,525.00,20,BookLink,2026-06-15,Suburb,Young Adults
+36,Book 36,Ethan Brooks,Young Adult,Coming-of-age,Eastern Wave,2008-01-01,9780001000036,Audiobook,English,136,15.00,134,36,540.00,0,AlphaImports,2020-06-15,Downtown,Teens
+37,Book 37,Priya Nair,Fiction,Literary,GoldenLeaf,2009-01-01,9780001000037,Hardcover,Spanish,137,15.00,133,37,555.00,5,Global Books Ltd,2021-06-15,Uptown,Adults
+38,Book 38,Daniel Kim,Non-Fiction,Essay,Pioneer Editions,2010-01-01,9780001000038,Paperback,French,138,15.00,132,38,570.00,10,City Distributors,2022-06-15,Riverside,All Ages
+39,Book 39,Noah Patel,Children,Picture Book,NorthStar Press,2011-01-01,9780001000039,eBook,German,139,15.00,131,39,585.00,15,NovelSource,2023-06-15,Midtown,Children
+40,Book 40,Isabella Rossi,Fantasy,Epic,Cascade Books,2012-01-01,9780001000040,Audiobook,English,140,15.00,130,40,600.00,20,ReadersWholesale,2024-06-15,Suburb,Young Adults
+41,Book 41,J. Thompson,Science,Popular Science,Sunrise Press,2013-01-01,9780001000041,Hardcover,Spanish,141,15.00,129,41,615.00,0,BookLink,2025-06-15,Downtown,Adults
+42,Book 42,Olivia Nguyen,Romance,Contemporary,Maple House,2014-01-01,9780001000042,Paperback,French,142,15.00,128,42,630.00,5,AlphaImports,2026-06-15,Uptown,Teens
+43,Book 43,Michael Carter,Mystery,Thriller,Orion Books,2015-01-01,9780001000043,eBook,German,143,15.00,127,43,645.00,10,Global Books Ltd,2020-06-15,Riverside,Adults
+44,Book 44,Emma Johnson,Historical,Historical Fiction,Harbor Publishing,2016-01-01,9780001000044,Audiobook,English,144,15.00,126,44,660.00,15,City Distributors,2021-06-15,Midtown,All Ages
+45,Book 45,Carlos Ruiz,Self-Help,Motivational,Blue Oak Media,2017-01-01,9780001000045,Hardcover,Spanish,145,15.00,125,45,675.00,20,NovelSource,2022-06-15,Suburb,Young Adults
+46,Book 46,A. Sharma,Biography,Memoir,Eastern Wave,2018-01-01,9780001000046,Paperback,French,146,15.00,124,46,690.00,0,ReadersWholesale,2023-06-15,Downtown,Adults
+47,Book 47,L. Bennett,Business,Entrepreneurship,GoldenLeaf,2019-01-01,9780001000047,eBook,German,147,15.00,123,47,705.00,5,BookLink,2024-06-15,Uptown,Teens
+48,Book 48,M. O'Connor,Young Adult,Coming-of-age,Pioneer Editions,2020-01-01,9780001000048,Audiobook,English,148,15.00,122,48,720.00,10,AlphaImports,2025-06-15,Riverside,Children
+49,Book 49,Chen Li,Fiction,Literary,NorthStar Press,2021-01-01,9780001000049,Hardcover,Spanish,149,15.00,121,49,735.00,15,Global Books Ltd,2026-06-15,Midtown,Adults
+50,Book 50,Sofia Garcia,Non-Fiction,Essay,Cascade Books,2022-01-01,9780001000050,Paperback,French,150,15.00,120,50,750.00,20,City Distributors,2020-06-15,Suburb,All Ages
+51,Book 51,Ethan Brooks,Children,Picture Book,Sunrise Press,2023-01-01,9780001000051,eBook,German,151,15.00,119,51,765.00,0,NovelSource,2021-06-15,Downtown,Children
+52,Book 52,Priya Nair,Fantasy,Epic,Maple House,2024-01-01,9780001000052,Audiobook,English,152,15.00,118,52,780.00,5,ReadersWholesale,2022-06-15,Uptown,Young Adults
+53,Book 53,Daniel Kim,Science,Popular Science,Orion Books,2025-01-01,9780001000053,Hardcover,Spanish,153,15.00,117,53,795.00,10,BookLink,2023-06-15,Riverside,Adults
+54,Book 54,Noah Patel,Romance,Contemporary,Harbor Publishing,2026-01-01,9780001000054,Paperback,French,154,15.00,116,54,810.00,15,AlphaImports,2024-06-15,Midtown,Teens
+55,Book 55,Isabella Rossi,Mystery,Thriller,Blue Oak Media,2000-01-01,9780001000055,eBook,German,155,15.00,115,55,825.00,20,Global Books Ltd,2025-06-15,Suburb,Adults
+56,Book 56,J. Thompson,Historical,Historical Fiction,Eastern Wave,2001-01-01,9780001000056,Hardcover,English,156,15.00,114,56,840.00,0,City Distributors,2026-06-15,Downtown,All Ages
+57,Book 57,Olivia Nguyen,Self-Help,Motivational,GoldenLeaf,2002-01-01,9780001000057,Paperback,Spanish,157,15.00,113,57,855.00,5,NovelSource,2020-06-15,Uptown,Teens
+58,Book 58,Michael Carter,Biography,Memoir,Pioneer Editions,2003-01-01,9780001000058,eBook,French,158,15.00,112,58,870.00,10,ReadersWholesale,2021-06-15,Riverside,Adults
+59,Book 59,Emma Johnson,Business,Entrepreneurship,NorthStar Press,2004-01-01,9780001000059,Audiobook,German,159,15.00,111,59,885.00,15,BookLink,2022-06-15,Midtown,Young Adults
+60,Book 60,Carlos Ruiz,Young Adult,Coming-of-age,Cascade Books,2005-01-01,9780001000060,Hardcover,English,160,15.00,110,60,900.00,20,AlphaImports,2023-06-15,Suburb,Teens
+61,Book 61,A. Sharma,Fiction,Literary,Sunrise Press,2006-01-01,9780001000061,Paperback,Spanish,161,15.00,109,61,915.00,0,Global Books Ltd,2024-06-15,Downtown,Adults
+62,Book 62,L. Bennett,Non-Fiction,Essay,Maple House,2007-01-01,9780001000062,eBook,French,162,15.00,108,62,930.00,5,City Distributors,2025-06-15,Uptown,All Ages
+63,Book 63,M. O'Connor,Children,Picture Book,Orion Books,2008-01-01,9780001000063,Audiobook,German,163,15.00,107,63,945.00,10,NovelSource,2026-06-15,Riverside,Children
+64,Book 64,Chen Li,Fantasy,Epic,Harbor Publishing,2009-01-01,9780001000064,Hardcover,English,164,15.00,106,64,960.00,15,ReadersWholesale,2020-06-15,Midtown,Young Adults
+65,Book 65,Sofia Garcia,Science,Popular Science,Blue Oak Media,2010-01-01,9780001000065,Paperback,Spanish,165,15.00,105,65,975.00,20,BookLink,2021-06-15,Suburb,Adults
+66,Book 66,Ethan Brooks,Romance,Contemporary,Eastern Wave,2011-01-01,9780001000066,eBook,French,166,15.00,104,66,990.00,0,AlphaImports,2022-06-15,Downtown,Teens
+67,Book 67,Priya Nair,Mystery,Thriller,GoldenLeaf,2012-01-01,9780001000067,Audiobook,German,167,15.00,103,67,1005.00,5,Global Books Ltd,2023-06-15,Uptown,Adults
+68,Book 68,Daniel Kim,Historical,Historical Fiction,Pioneer Editions,2013-01-01,9780001000068,Hardcover,English,168,15.00,102,68,1020.00,10,City Distributors,2024-06-15,Riverside,All Ages
+69,Book 69,Noah Patel,Self-Help,Motivational,NorthStar Press,2014-01-01,9780001000069,Paperback,Spanish,169,15.00,101,69,1035.00,15,NovelSource,2025-06-15,Midtown,Teens
+70,Book 70,Isabella Rossi,Biography,Memoir,Cascade Books,2015-01-01,9780001000070,eBook,French,170,15.00,100,70,1050.00,20,ReadersWholesale,2026-06-15,Suburb,Young Adults
+71,Book 71,J. Thompson,Business,Entrepreneurship,Sunrise Press,2016-01-01,9780001000071,Audiobook,German,171,15.00,99,71,1065.00,0,BookLink,2020-06-15,Downtown,Adults
+72,Book 72,Olivia Nguyen,Young Adult,Coming-of-age,Maple House,2017-01-01,9780001000072,Hardcover,English,172,15.00,98,72,1080.00,5,AlphaImports,2021-06-15,Uptown,Teens
+73,Book 73,Michael Carter,Fiction,Literary,Orion Books,2018-01-01,9780001000073,Paperback,Spanish,173,15.00,97,73,1095.00,10,Global Books Ltd,2022-06-15,Riverside,Adults
+74,Book 74,Emma Johnson,Non-Fiction,Essay,Harbor Publishing,2019-01-01,9780001000074,eBook,French,174,15.00,96,74,1110.00,15,City Distributors,2023-06-15,Midtown,All Ages
+75,Book 75,Carlos Ruiz,Children,Picture Book,Blue Oak Media,2020-01-01,9780001000075,Audiobook,German,175,15.00,95,75,1125.00,20,NovelSource,2024-06-15,Suburb,Children
+76,Book 76,A. Sharma,Fantasy,Epic,Eastern Wave,2021-01-01,9780001000076,Hardcover,English,176,15.00,94,76,1140.00,0,ReadersWholesale,2025-06-15,Downtown,Young Adults
+77,Book 77,L. Bennett,Science,Popular Science,GoldenLeaf,2022-01-01,9780001000077,Paperback,Spanish,177,15.00,93,77,1155.00,5,BookLink,2026-06-15,Uptown,Adults
+78,Book 78,M. O'Connor,Romance,Contemporary,Pioneer Editions,2023-01-01,9780001000078,eBook,French,178,15.00,92,78,1170.00,10,AlphaImports,2020-06-15,Riverside,Teens
+79,Book 79,Chen Li,Mystery,Thriller,NorthStar Press,2024-01-01,9780001000079,Audiobook,German,179,15.00,91,79,1185.00,15,Global Books Ltd,2021-06-15,Midtown,Adults
+80,Book 80,Sofia Garcia,Historical,Historical Fiction,Cascade Books,2025-01-01,9780001000080,Hardcover,English,180,15.00,90,80,1200.00,20,City Distributors,2022-06-15,Suburb,All Ages
+81,Book 81,Ethan Brooks,Self-Help,Motivational,Sunrise Press,2026-01-01,9780001000081,Paperback,Spanish,181,15.00,89,81,1215.00,0,NovelSource,2023-06-15,Downtown,Teens
+82,Book 82,Priya Nair,Biography,Memoir,Maple House,2000-01-01,9780001000082,eBook,French,182,15.00,88,82,1230.00,5,ReadersWholesale,2024-06-15,Uptown,Adults
+83,Book 83,Daniel Kim,Business,Entrepreneurship,Orion Books,2001-01-01,9780001000083,Audiobook,German,183,15.00,87,83,1245.00,10,BookLink,2025-06-15,Riverside,Young Adults
+84,Book 84,Noah Patel,Young Adult,Coming-of-age,Harbor Publishing,2002-01-01,9780001000084,Hardcover,English,184,15.00,86,84,1260.00,15,AlphaImports,2026-06-15,Midtown,Teens
+85,Book 85,Isabella Rossi,Fiction,Literary,Blue Oak Media,2003-01-01,9780001000085,Paperback,Spanish,185,15.00,85,85,1275.00,20,Global Books Ltd,2020-06-15,Suburb,Adults
+86,Book 86,J. Thompson,Non-Fiction,Essay,Eastern Wave,2004-01-01,9780001000086,eBook,French,186,15.00,84,86,1290.00,0,City Distributors,2021-06-15,Downtown,All Ages
+87,Book 87,Olivia Nguyen,Children,Picture Book,GoldenLeaf,2005-01-01,9780001000087,Audiobook,German,187,15.00,83,87,1305.00,5,NovelSource,2022-06-15,Uptown,Children
+88,Book 88,Michael Carter,Fantasy,Epic,Pioneer Editions,2006-01-01,9780001000088,Hardcover,English,188,15.00,82,88,1320.00,10,ReadersWholesale,2023-06-15,Riverside,Young Adults
+89,Book 89,Emma Johnson,Science,Popular Science,NorthStar Press,2007-01-01,9780001000089,Paperback,Spanish,189,15.00,81,89,1335.00,15,BookLink,2024-06-15,Midtown,Adults
+90,Book 90,Carlos Ruiz,Romance,Contemporary,Cascade Books,2008-01-01,9780001000090,eBook,French,190,15.00,80,90,1350.00,20,AlphaImports,2025-06-15,Suburb,Teens
+91,Book 91,A. Sharma,Mystery,Thriller,Sunrise Press,2009-01-01,9780001000091,Audiobook,German,191,15.00,79,91,1365.00,0,Global Books Ltd,2026-06-15,Downtown,Adults
+92,Book 92,L. Bennett,Historical,Historical Fiction,Maple House,2010-01-01,9780001000092,Hardcover,English,192,15.00,78,92,1380.00,5,City Distributors,2020-06-15,Uptown,All Ages
+93,Book 93,M. O'Connor,Self-Help,Motivational,Orion Books,2011-01-01,9780001000093,Paperback,Spanish,193,15.00,77,93,1395.00,10,NovelSource,2021-06-15,Riverside,Teens
+94,Book 94,Chen Li,Biography,Memoir,Harbor Publishing,2012-01-01,9780001000094,eBook,French,194,15.00,76,94,1410.00,15,ReadersWholesale,2022-06-15,Midtown,Adults
+95,Book 95,Sofia Garcia,Business,Entrepreneurship,Blue Oak Media,2013-01-01,9780001000095,Audiobook,German,195,15.00,75,95,1425.00,20,BookLink,2023-06-15,Suburb,Young Adults
+96,Book 96,Ethan Brooks,Young Adult,Coming-of-age,Eastern Wave,2014-01-01,9780001000096,Hardcover,English,196,15.00,74,96,1440.00,0,AlphaImports,2024-06-15,Downtown,Teens
+97,Book 97,Priya Nair,Fiction,Literary,GoldenLeaf,2015-01-01,9780001000097,Paperback,Spanish,197,15.00,73,97,1455.00,5,Global Books Ltd,2025-06-15,Uptown,Adults
+98,Book 98,Daniel Kim,Non-Fiction,Essay,Pioneer Editions,2016-01-01,9780001000098,eBook,French,198,15.00,72,98,1470.00,10,City Distributors,2026-06-15,Riverside,All Ages
+99,Book 99,Noah Patel,Children,Picture Book,NorthStar Press,2017-01-01,9780001000099,Audiobook,German,199,15.00,71,99,1485.00,15,NovelSource,2020-06-15,Midtown,Children
+100,Book 100,Isabella Rossi,Fantasy,Epic,Cascade Books,2018-01-01,9780001000100,Hardcover,English,200,15.00,70,100,1500.00,20,ReadersWholesale,2021-06-15,Suburb,Young Adults
+101,Book 101,J. Thompson,Science,Popular Science,Sunrise Press,2019-01-01,9780001000101,Paperback,Spanish,201,15.00,69,101,1515.00,0,BookLink,2022-06-15,Downtown,Adults
+102,Book 102,Olivia Nguyen,Romance,Contemporary,Maple House,2020-01-01,9780001000102,eBook,French,202,15.00,68,102,1530.00,5,AlphaImports,2023-06-15,Uptown,Teens
+103,Book 103,Michael Carter,Mystery,Thriller,Orion Books,2021-01-01,9780001000103,Audiobook,German,203,15.00,67,103,1545.00,10,Global Books Ltd,2024-06-15,Riverside,Adults
+104,Book 104,Emma Johnson,Historical,Historical Fiction,Harbor Publishing,2022-01-01,9780001000104,Hardcover,English,204,15.00,66,104,1560.00,15,City Distributors,2025-06-15,Midtown,All Ages
+105,Book 105,Carlos Ruiz,Self-Help,Motivational,Blue Oak Media,2023-01-01,9780001000105,Paperback,Spanish,205,15.00,65,105,1575.00,20,NovelSource,2026-06-15,Suburb,Young Adults
+106,Book 106,A. Sharma,Biography,Memoir,Eastern Wave,2024-01-01,9780001000106,eBook,French,206,15.00,64,106,1590.00,0,ReadersWholesale,2020-06-15,Downtown,Adults
+107,Book 107,L. Bennett,Business,Entrepreneurship,GoldenLeaf,2025-01-01,9780001000107,Audiobook,German,207,15.00,63,107,1605.00,5,BookLink,2021-06-15,Uptown,All Ages
+108,Book 108,M. O'Connor,Young Adult,Coming-of-age,Pioneer Editions,2026-01-01,9780001000108,Hardcover,English,208,15.00,62,108,1620.00,10,AlphaImports,2022-06-15,Riverside,Teens
+109,Book 109,Chen Li,Fiction,Literary,NorthStar Press,2000-01-01,9780001000109,Paperback,Spanish,209,15.00,61,109,1635.00,15,Global Books Ltd,2023-06-15,Midtown,Adults
+110,Book 110,Sofia Garcia,Non-Fiction,Essay,Cascade Books,2001-01-01,9780001000110,eBook,French,210,15.00,60,110,1650.00,20,City Distributors,2024-06-15,Suburb,All Ages
+111,Book 111,Ethan Brooks,Children,Picture Book,Sunrise Press,2002-01-01,9780001000111,Audiobook,German,211,15.00,59,111,1665.00,0,NovelSource,2025-06-15,Downtown,Children
+112,Book 112,Priya Nair,Fantasy,Epic,Maple House,2003-01-01,9780001000112,Hardcover,English,212,15.00,58,112,1680.00,5,ReadersWholesale,2026-06-15,Uptown,Young Adults
+113,Book 113,Daniel Kim,Science,Popular Science,Orion Books,2004-01-01,9780001000113,Paperback,Spanish,213,15.00,57,113,1695.00,10,BookLink,2020-06-15,Riverside,Adults
+114,Book 114,Noah Patel,Romance,Contemporary,Harbor Publishing,2005-01-01,9780001000114,eBook,French,214,15.00,56,114,1710.00,15,AlphaImports,2021-06-15,Midtown,Teens
+115,Book 115,Isabella Rossi,Mystery,Thriller,Blue Oak Media,2006-01-01,9780001000115,Audiobook,German,215,15.00,55,115,1725.00,20,Global Books Ltd,2022-06-15,Suburb,Adults
+116,Book 116,J. Thompson,Historical,Historical Fiction,Eastern Wave,2007-01-01,9780001000116,Hardcover,English,216,15.00,54,116,1740.00,0,City Distributors,2023-06-15,Downtown,All Ages
+117,Book 117,Olivia Nguyen,Self-Help,Motivational,GoldenLeaf,2008-01-01,9780001000117,Paperback,Spanish,217,15.00,53,117,1755.00,5,NovelSource,2024-06-15,Uptown,Teens
+118,Book 118,Michael Carter,Biography,Memoir,Pioneer Editions,2009-01-01,9780001000118,eBook,French,218,15.00,52,118,1770.00,10,ReadersWholesale,2025-06-15,Riverside,Adults
+119,Book 119,Emma Johnson,Business,Entrepreneurship,NorthStar Press,2010-01-01,9780001000119,Audiobook,German,219,15.00,51,119,1785.00,15,BookLink,2026-06-15,Midtown,Young Adults
+120,Book 120,Carlos Ruiz,Young Adult,Coming-of-age,Cascade Books,2011-01-01,9780001000120,Hardcover,English,220,15.00,50,120,1800.00,20,AlphaImports,2020-06-15,Suburb,Teens
+121,Book 121,A. Sharma,Fiction,Literary,Sunrise Press,2012-01-01,9780001000121,Paperback,Spanish,221,15.00,49,121,1815.00,0,Global Books Ltd,2021-06-15,Downtown,Adults
+122,Book 122,L. Bennett,Non-Fiction,Essay,Maple House,2013-01-01,9780001000122,eBook,French,222,15.00,48,122,1830.00,5,City Distributors,2022-06-15,Uptown,All Ages
+123,Book 123,M. O'Connor,Children,Picture Book,Orion Books,2014-01-01,9780001000123,Audiobook,German,223,15.00,47,123,1845.00,10,NovelSource,2023-06-15,Riverside,Children
+124,Book 124,Chen Li,Fantasy,Epic,Harbor Publishing,2015-01-01,9780001000124,Hardcover,English,224,15.00,46,124,1860.00,15,ReadersWholesale,2024-06-15,Midtown,Young Adults
+125,Book 125,Sofia Garcia,Science,Popular Science,Blue Oak Media,2016-01-01,9780001000125,Paperback,Spanish,225,15.00,45,125,1875.00,20,BookLink,2025-06-15,Suburb,Adults
+126,Book 126,Ethan Brooks,Romance,Contemporary,Eastern Wave,2017-01-01,9780001000126,eBook,French,226,15.00,44,126,1890.00,0,AlphaImports,2026-06-15,Downtown,Teens
+127,Book 127,Priya Nair,Mystery,Thriller,GoldenLeaf,2018-01-01,9780001000127,Audiobook,German,227,15.00,43,127,1905.00,5,Global Books Ltd,2020-06-15,Uptown,Adults
+128,Book 128,Daniel Kim,Historical,Historical Fiction,Pioneer Editions,2019-01-01,9780001000128,Hardcover,English,228,15.00,42,128,1920.00,10,City Distributors,2021-06-15,Riverside,All Ages
+129,Book 129,Noah Patel,Self-Help,Motivational,NorthStar Press,2020-01-01,9780001000129,Paperback,Spanish,229,15.00,41,129,1935.00,15,NovelSource,2022-06-15,Midtown,Teens
+130,Book 130,Isabella Rossi,Biography,Memoir,Cascade Books,2021-01-01,9780001000130,eBook,French,230,15.00,40,130,1950.00,20,ReadersWholesale,2023-06-15,Suburb,Adults
+131,Book 131,J. Thompson,Business,Entrepreneurship,Sunrise Press,2022-01-01,9780001000131,Audiobook,German,231,15.00,39,131,1965.00,0,BookLink,2024-06-15,Downtown,Young Adults
+132,Book 132,Olivia Nguyen,Young Adult,Coming-of-age,Maple House,2023-01-01,9780001000132,Hardcover,English,232,15.00,38,132,1980.00,5,AlphaImports,2025-06-15,Uptown,Teens
+133,Book 133,Michael Carter,Fiction,Literary,Orion Books,2024-01-01,9780001000133,Paperback,Spanish,233,15.00,37,133,1995.00,10,Global Books Ltd,2026-06-15,Riverside,Adults
+134,Book 134,Emma Johnson,Non-Fiction,Essay,Harbor Publishing,2025-01-01,9780001000134,eBook,French,234,15.00,36,134,2010.00,15,City Distributors,2020-06-15,Midtown,All Ages
+135,Book 135,Carlos Ruiz,Children,Picture Book,Blue Oak Media,2026-01-01,9780001000135,Audiobook,German,235,15.00,35,135,2025.00,20,NovelSource,2021-06-15,Suburb,Children
+136,Book 136,A. Sharma,Fantasy,Epic,Eastern Wave,2000-01-01,9780001000136,Hardcover,English,236,15.00,34,136,2040.00,0,ReadersWholesale,2022-06-15,Downtown,Young Adults
+137,Book 137,L. Bennett,Science,Popular Science,GoldenLeaf,2001-01-01,9780001000137,Paperback,Spanish,237,15.00,33,137,2055.00,5,BookLink,2023-06-15,Uptown,Adults
+138,Book 138,M. O'Connor,Romance,Contemporary,Pioneer Editions,2002-01-01,9780001000138,eBook,French,238,15.00,32,138,2070.00,10,AlphaImports,2024-06-15,Riverside,Teens
+139,Book 139,Chen Li,Mystery,Thriller,NorthStar Press,2003-01-01,9780001000139,Audiobook,German,239,15.00,31,139,2085.00,15,Global Books Ltd,2025-06-15,Midtown,Adults
+140,Book 140,Sofia Garcia,Historical,Historical Fiction,Cascade Books,2004-01-01,9780001000140,Hardcover,English,240,15.00,30,140,2100.00,20,City Distributors,2026-06-15,Suburb,All Ages
+141,Book 141,Ethan Brooks,Self-Help,Motivational,Sunrise Press,2005-01-01,9780001000141,Paperback,Spanish,241,15.00,29,141,2115.00,0,NovelSource,2020-06-15,Downtown,Teens
+142,Book 142,Priya Nair,Biography,Memoir,Maple House,2006-01-01,9780001000142,eBook,French,242,15.00,28,142,2130.00,5,ReadersWholesale,2021-06-15,Uptown,Adults
+143,Book 143,Daniel Kim,Business,Entrepreneurship,Orion Books,2007-01-01,9780001000143,Audiobook,German,243,15.00,27,143,2145.00,10,BookLink,2022-06-15,Riverside,Young Adults
+144,Book 144,Noah Patel,Young Adult,Coming-of-age,Harbor Publishing,2008-01-01,9780001000144,Hardcover,English,244,15.00,26,144,2160.00,15,AlphaImports,2023-06-15,Midtown,Teens
+145,Book 145,Isabella Rossi,Fiction,Literary,Blue Oak Media,2009-01-01,9780001000145,Paperback,Spanish,245,15.00,25,145,2175.00,20,Global Books Ltd,2024-06-15,Suburb,Adults
+146,Book 146,J. Thompson,Non-Fiction,Essay,Eastern Wave,2010-01-01,9780001000146,eBook,French,246,15.00,24,146,2190.00,0,City Distributors,2025-06-15,Downtown,All Ages
+147,Book 147,Olivia Nguyen,Children,Picture Book,GoldenLeaf,2011-01-01,9780001000147,Audiobook,German,247,15.00,23,147,2205.00,5,NovelSource,2026-06-15,Uptown,Children
+148,Book 148,Michael Carter,Fantasy,Epic,Pioneer Editions,2012-01-01,9780001000148,Hardcover,English,248,15.00,22,148,2220.00,10,ReadersWholesale,2020-06-15,Riverside,Young Adults
+149,Book 149,Emma Johnson,Science,Popular Science,NorthStar Press,2013-01-01,9780001000149,Paperback,Spanish,249,15.00,21,149,2235.00,15,BookLink,2021-06-15,Midtown,Adults
+150,Book 150,Carlos Ruiz,Romance,Contemporary,Cascade Books,2014-01-01,9780001000150,eBook,French,250,15.00,20,150,2250.00,20,AlphaImports,2022-06-15,Suburb,Teens
